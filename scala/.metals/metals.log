@@ -1,0 +1,317 @@
+2023.03.07 21:41:35 INFO  Started: Metals version 0.11.11 in workspace '/home/vincebae/code/practice/scala' for client Neovim 0.8.3.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/vincebae/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.07 21:41:35 INFO  time: initialize in 0.31s[0m
+2023.03.07 21:41:37 WARN  Build server is not auto-connectable.[0m
+2023.03.07 21:41:37 WARN  no build tool detected in workspace '/home/vincebae/code/practice/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.03.07 21:41:37 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.07 21:41:47 INFO  no build target found for /home/vincebae/code/practice/scala/HelloWorld.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.03.07 21:42:12 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.07 21:42:18 INFO  Shutting down server[0m
+2023.03.07 21:42:18 INFO  shutting down Metals[0m
+2023.03.07 21:42:29 INFO  Started: Metals version 0.11.11 in workspace '/home/vincebae/code/practice/scala' for client Neovim 0.8.3.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/vincebae/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.07 21:42:29 INFO  time: initialize in 0.32s[0m
+2023.03.07 21:42:30 WARN  Build server is not auto-connectable.[0m
+2023.03.07 21:42:30 WARN  no build tool detected in workspace '/home/vincebae/code/practice/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.03.07 21:42:30 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.07 21:42:31 INFO  no build target found for /home/vincebae/code/practice/scala/HelloWorld.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.03.07 21:44:08 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.07 21:44:12 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.07 21:44:22 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.07 21:44:22 INFO  Shutting down server[0m
+2023.03.07 21:44:22 INFO  shutting down Metals[0m
+2023.03.07 21:44:25 INFO  Started: Metals version 0.11.11 in workspace '/home/vincebae/code/practice/scala' for client Neovim 0.8.3.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/vincebae/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.07 21:44:25 INFO  time: initialize in 0.32s[0m
+2023.03.07 21:44:26 WARN  Build server is not auto-connectable.[0m
+2023.03.07 21:44:26 WARN  no build tool detected in workspace '/home/vincebae/code/practice/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.03.07 21:44:26 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.07 21:44:27 INFO  no build target found for /home/vincebae/code/practice/scala/HelloWorld.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.03.07 21:45:39 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.07 21:45:39 INFO  Shutting down server[0m
+2023.03.07 21:45:39 INFO  shutting down Metals[0m
+2023.03.07 21:45:40 INFO  Started: Metals version 0.11.11 in workspace '/home/vincebae/code/practice/scala' for client Neovim 0.8.3.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/vincebae/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.07 21:45:41 INFO  time: initialize in 0.33s[0m
+2023.03.07 21:45:42 WARN  Build server is not auto-connectable.[0m
+2023.03.07 21:45:42 WARN  no build tool detected in workspace '/home/vincebae/code/practice/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.03.07 21:45:42 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.07 21:45:43 INFO  no build target found for /home/vincebae/code/practice/scala/HelloWorld.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.03.07 21:45:47 INFO  Shutting down server[0m
+2023.03.07 21:45:47 INFO  shutting down Metals[0m
+2023.03.07 21:45:49 INFO  Started: Metals version 0.11.11 in workspace '/home/vincebae/code/practice/scala' for client Neovim 0.8.3.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/vincebae/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.07 21:45:50 INFO  time: initialize in 0.29s[0m
+2023.03.07 21:45:50 WARN  Build server is not auto-connectable.[0m
+2023.03.07 21:45:50 WARN  no build tool detected in workspace '/home/vincebae/code/practice/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.03.07 21:45:50 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.07 21:45:52 INFO  no build target found for /home/vincebae/code/practice/scala/HelloWorld.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.03.07 21:46:05 INFO  Shutting down server[0m
+2023.03.07 21:46:05 INFO  shutting down Metals[0m
+2023.03.07 21:50:02 INFO  Started: Metals version 0.11.11 in workspace '/home/vincebae/code/practice/scala' for client Neovim 0.8.3.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/vincebae/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.07 21:50:03 INFO  time: initialize in 0.32s[0m
+2023.03.07 21:50:04 WARN  Build server is not auto-connectable.[0m
+2023.03.07 21:50:04 WARN  no build tool detected in workspace '/home/vincebae/code/practice/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.03.07 21:50:04 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.07 21:50:05 INFO  no build target found for /home/vincebae/code/practice/scala/HelloWorld.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.6.1/scalafmt-core_2.13-3.6.1.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.6.1/scalafmt-core_2.13-3.6.1.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.6.0/scalameta_2.13-4.6.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.6.1/scalafmt-sysops_2.13-3.6.1.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.6.1/scalafmt-config_2.13-3.6.1.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.6.0/scalameta_2.13-4.6.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.6.1/scalafmt-sysops_2.13-3.6.1.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.6.1/scalafmt-config_2.13-3.6.1.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.6.0/parsers_2.13-4.6.0.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.9/scalap-2.13.9.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.6.0/parsers_2.13-4.6.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.9/scalap-2.13.9.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.6.0/trees_2.13-4.6.0.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.9/scala-compiler-2.13.9.pom
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.pom
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.9/scala-compiler-2.13.9.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.6.0/trees_2.13-4.6.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.6.0/common_2.13-4.6.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.6.0/common_2.13-4.6.0.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.9/scalap-2.13.9.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.6.1/scalafmt-config_2.13-3.6.1.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.6.0/parsers_2.13-4.6.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.6.0/trees_2.13-4.6.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.6.1/scalafmt-core_2.13-3.6.1.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.6.0/scalameta_2.13-4.6.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.6.1/scalafmt-config_2.13-3.6.1.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.9/scala-compiler-2.13.9.jar
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.9/scalap-2.13.9.jar
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.6.1/scalafmt-sysops_2.13-3.6.1.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.6.1/scalafmt-sysops_2.13-3.6.1.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.6.0/common_2.13-4.6.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.6.1/scalafmt-core_2.13-3.6.1.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.6.0/parsers_2.13-4.6.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.6.0/common_2.13-4.6.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.6.0/trees_2.13-4.6.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.6.0/scalameta_2.13-4.6.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.9/scala-compiler-2.13.9.jar
+2023.03.07 21:50:28 INFO  Shutting down server[0m
+2023.03.07 21:50:28 INFO  shutting down Metals[0m
+2023.03.07 21:50:32 INFO  Started: Metals version 0.11.11 in workspace '/home/vincebae/code/practice/scala' for client Neovim 0.8.3.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/vincebae/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.07 21:50:32 INFO  time: initialize in 0.3s[0m
+2023.03.07 21:50:33 WARN  Build server is not auto-connectable.[0m
+2023.03.07 21:50:33 WARN  no build tool detected in workspace '/home/vincebae/code/practice/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.03.07 21:50:32 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.07 21:50:35 INFO  no build target found for /home/vincebae/code/practice/scala/HelloWorld.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.03.07 21:50:43 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.07 21:50:54 INFO  Shutting down server[0m
+2023.03.07 21:50:54 INFO  shutting down Metals[0m
+2023.03.07 21:51:02 INFO  Started: Metals version 0.11.11 in workspace '/home/vincebae/code/practice/scala' for client Neovim 0.8.3.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/vincebae/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.07 21:51:02 INFO  time: initialize in 0.29s[0m
+2023.03.07 21:51:03 WARN  Build server is not auto-connectable.[0m
+2023.03.07 21:51:03 WARN  no build tool detected in workspace '/home/vincebae/code/practice/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.03.07 21:51:02 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.07 21:51:04 INFO  no build target found for /home/vincebae/code/practice/scala/HelloWorld.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.03.07 21:53:38 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.07 21:53:46 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.07 21:53:46 INFO  Shutting down server[0m
+2023.03.07 21:53:46 INFO  shutting down Metals[0m
+2023.03.07 21:53:58 INFO  Started: Metals version 0.11.11 in workspace '/home/vincebae/code/practice/scala' for client Neovim 0.8.3.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/vincebae/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.07 21:53:58 INFO  time: initialize in 0.3s[0m
+2023.03.07 21:53:59 WARN  Build server is not auto-connectable.[0m
+2023.03.07 21:53:59 WARN  no build tool detected in workspace '/home/vincebae/code/practice/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.03.07 21:53:59 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.07 21:54:00 INFO  no build target found for /home/vincebae/code/practice/scala/HelloWorld.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.03.07 21:54:27 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.07 21:54:27 INFO  Shutting down server[0m
+2023.03.07 21:54:27 INFO  shutting down Metals[0m
+2023.03.07 21:54:30 INFO  Started: Metals version 0.11.11 in workspace '/home/vincebae/code/practice/scala' for client Neovim 0.8.3.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/vincebae/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.07 21:54:30 INFO  time: initialize in 0.31s[0m
+2023.03.07 21:54:31 INFO  Shutting down server[0m
+2023.03.07 21:54:31 INFO  shutting down Metals[0m
+2023.03.07 21:54:31 WARN  Build server is not auto-connectable.[0m
+2023.03.07 21:54:31 WARN  no build tool detected in workspace '/home/vincebae/code/practice/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.03.07 21:54:31 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.07 21:54:33 INFO  no build target found for /home/vincebae/code/practice/scala/HelloWorld.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.03.15 22:06:08 INFO  Started: Metals version 0.11.11 in workspace '/home/vincebae/code/practice/scala' for client Neovim 0.8.3.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/vincebae/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.15 22:06:09 INFO  time: initialize in 0.32s[0m
+2023.03.15 22:06:10 WARN  Build server is not auto-connectable.[0m
+2023.03.15 22:06:10 WARN  no build tool detected in workspace '/home/vincebae/code/practice/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.03.15 22:06:09 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.15 22:06:11 INFO  no build target found for /home/vincebae/code/practice/scala/HelloWorld.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.03.15 22:06:15 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.15 22:06:19 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+Mar 15, 2023 10:06:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didSave",
+  "params": {
+    "textDocument": {
+      "uri": "file:///home/vincebae/code/practice/scala/HelloWorld.scala"
+    },
+    "text": "object HelloWorl {\n  /*\n   * Scala preferred comment.\n   * Second line.\n   */\n  def main(args: Array[String]): Unit \u003d {\n    val msg \u003d \"Hello World!\"\n    println(msg)\n    val long: Long \u003d 123L\n    val int: Int \u003d long.asInstanceOf[Int]\n    println(int)\n  }\n}\n"
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.NoSuchFileException: /home/vincebae/code/practice/scala/HelloWorld.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionAbsolutePath.toInput(CommonMtagsEnrichments.scala:568)
+	at scala.meta.internal.metals.MetalsLspService.didSave(MetalsLspService.scala:1272)
+	at scala.meta.metals.lsp.DelegatingScalaService.didSave(DelegatingScalaService.scala:57)
+	... 16 more
+
+2023.03.15 22:06:19 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorl.scala[0m
+2023.03.15 22:06:25 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorl.scala[0m
+2023.03.15 22:06:26 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorl.scala[0m
+Mar 15, 2023 10:06:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didSave",
+  "params": {
+    "textDocument": {
+      "uri": "file:///home/vincebae/code/practice/scala/HelloWorl.scala"
+    },
+    "text": "object HelloWorld {\n  /*\n   * Scala preferred comment.\n   * Second line.\n   */\n  def main(args: Array[String]): Unit \u003d {\n    val msg \u003d \"Hello World!\"\n    println(msg)\n    val long: Long \u003d 123L\n    val int: Int \u003d long.asInstanceOf[Int]\n    println(int)\n  }\n}\n"
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.NoSuchFileException: /home/vincebae/code/practice/scala/HelloWorl.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionAbsolutePath.toInput(CommonMtagsEnrichments.scala:568)
+	at scala.meta.internal.metals.MetalsLspService.didSave(MetalsLspService.scala:1272)
+	at scala.meta.metals.lsp.DelegatingScalaService.didSave(DelegatingScalaService.scala:57)
+	... 16 more
+
+2023.03.15 22:06:26 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.15 22:06:34 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.15 22:06:42 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.15 22:06:43 INFO  Shutting down server[0m
+2023.03.15 22:06:43 INFO  shutting down Metals[0m
+2023.03.16 01:48:51 INFO  Started: Metals version 0.11.11 in workspace '/home/vincebae/code/practice/scala' for client Neovim 0.8.3.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/vincebae/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.16 01:48:51 INFO  time: initialize in 0.3s[0m
+2023.03.16 01:48:52 WARN  Build server is not auto-connectable.[0m
+2023.03.16 01:48:52 WARN  no build tool detected in workspace '/home/vincebae/code/practice/scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.03.16 01:48:52 WARN  no build target for: /home/vincebae/code/practice/scala/HelloWorld.scala[0m
+2023.03.16 01:48:54 INFO  no build target found for /home/vincebae/code/practice/scala/HelloWorld.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.03.16 01:49:07 INFO  Shutting down server[0m
+2023.03.16 01:49:07 INFO  shutting down Metals[0m
